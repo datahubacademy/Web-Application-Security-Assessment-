@@ -3,7 +3,7 @@ WEB APPLICATION SECURITY ASSESSMENT — README
 OWASP Top 10 (2021) Review — OWASP Juice Shop
 ==============================================================================
 
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/faff5873-59a3-435e-ab03-d0c02acb689e" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/faff5873-59a3-435e-ab03-d0c02acb689e" />
 
   Prepared by     | Ede Peter Bethran
   NextGen Cohort  | FE/24/6932350572
