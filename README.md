@@ -37,6 +37,8 @@ Key Findings
 
 Testing identified 7 confirmed vulnerabilities across 6 OWASP Top 10 categories, including a Critical SQL injection flaw enabling full authentication bypass as the administrator account, a Broken Access Control flaw (IDOR) exposing other users' basket data, and a publicly exposed directory leaking a password database file and internal business documents.
 
+<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/bc90bb44-46ad-4257-b7b3-70a842ad3f7a" />
+
 
 Overall Risk Rating
 ~~~~~~~~~~~~~~~~~~~
